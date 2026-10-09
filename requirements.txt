@@ -2,3 +2,4 @@ streamlit
 openai
 pypdf
 Pillow
+python-dotenv
